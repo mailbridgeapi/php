@@ -1,0 +1,23 @@
+{
+  "name": "mailbridgeapi/mailbridgeapi-php",
+  "description": "Official PHP client for the MailBridgeAPI email API.",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "MailBridgeAPI\\": "src/"
+    }
+  },
+  "keywords": ["email", "api", "smtp", "imap", "mailbridgeapi"],
+  "homepage": "https://mailbridgeapi.com/",
+  "support": {
+    "docs": "https://mailbridgeapi.com/doc/",
+    "issues": "https://github.com/mailbridgeapi/php/issues"
+  }
+}
+
