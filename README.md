@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mailbridgeapi/mailbridgeapi/main/assets/logo-mark.png" alt="MailBridgeAPI logo" width="112">
+</p>
+
 # MailBridgeAPI PHP
 
 Official dependency-light PHP client for all public MailBridgeAPI endpoints.
